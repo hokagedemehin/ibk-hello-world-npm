@@ -1,0 +1,23 @@
+{
+  "name": "hello-ibk-npm",
+  "version": "1.0.0",
+  "description": "First NPM Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hokagedemehin/ibk-hello-world-npm.git"
+  },
+  "keywords": [
+    "solution",
+    "ibk"
+  ],
+  "author": "Ibukun Demehin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hokagedemehin/ibk-hello-world-npm/issues"
+  },
+  "homepage": "https://github.com/hokagedemehin/ibk-hello-world-npm#readme"
+}
